@@ -1,1 +1,1 @@
-# -Fake-Product-Identification-by-QR-using-Blockchain
+# Fake-Product-Identification-by-QR-using-Blockchain
